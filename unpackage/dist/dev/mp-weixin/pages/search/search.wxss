@@ -1,0 +1,12 @@
+
+.select{
+	display: flex;
+}
+.select .selcet-item{
+	flex: 1;
+}
+.select view{
+	flex: 4;
+}
+
+

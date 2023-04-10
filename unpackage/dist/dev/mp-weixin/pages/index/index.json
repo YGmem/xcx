@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "佛山市合芯铝业有限公司",
+  "usingComponents": {
+    "weixi-auto-swiper": "/uni_modules/weixi-auto-swiper/components/weixi-auto-swiper/weixi-auto-swiper",
+    "o-grid": "/uni_modules/o-grid/components/o-grid/o-grid",
+    "o-grid-item": "/uni_modules/o-grid/components/o-grid-item/o-grid-item",
+    "text-swiper": "/uni_modules/weixi-auto-swiper/components/weixi-auto-swiper/weixi-auto-swiper"
+  }
+}
